@@ -60,27 +60,226 @@ Grading
 
 For the final grade, you will be evaluated on the basis of:
 
-| Requirements | Percentages |
-| --- | --- |
-| Attendance and participation | 10% |
-| Written work | 60% |
-| Exam | 15% |
-| Oral presentations/reports | 15% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Requirements
+{{< thclose >}}
+{{< thopen >}}
+Percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance and participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Written work
+{{< tdclose >}}
+{{< tdopen >}}
+60%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exam
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral presentations/reports
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction: On course themes and writing expectations | &nbsp; |
-| 2 | Eating: Hunger, taste, and smell | &nbsp; |
-| 3 | Disgust | &nbsp; |
-| 4-7 | Bible | Essay one due in Ses #7 |
-| 8-9 | Mary Rowlandson | &nbsp; |
-| 10-13 | Melville, _Typee_ | Revision of essay one due in Ses #10 |
-| 14 | Library research workshop | Essay two due |
-| 15-18 | Kafka | &nbsp; |
-| 19-23 | Shakespeare, _Twelfth Night_ |  {{< br >}}{{< br >}} Topics and research summaries due in Ses #22 {{< br >}}{{< br >}} Conferences in Ses #22 {{< br >}}{{< br >}}  |
-| 24 | Reports on research papers | Essay three due |
-| 25-26 | Desai, _Fasting, Feasting_ | &nbsp; |
-| 27 | Conclusion |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: On course themes and writing expectations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Eating: Hunger, taste, and smell
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Disgust
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4-7
+{{< tdclose >}}
+{{< tdopen >}}
+Bible
+{{< tdclose >}}
+{{< tdopen >}}
+Essay one due in Ses #7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8-9
+{{< tdclose >}}
+{{< tdopen >}}
+Mary Rowlandson
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10-13
+{{< tdclose >}}
+{{< tdopen >}}
+Melville, _Typee_
+{{< tdclose >}}
+{{< tdopen >}}
+Revision of essay one due in Ses #10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Library research workshop
+{{< tdclose >}}
+{{< tdopen >}}
+Essay two due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15-18
+{{< tdclose >}}
+{{< tdopen >}}
+Kafka
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19-23
+{{< tdclose >}}
+{{< tdopen >}}
+Shakespeare, _Twelfth Night_
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Topics and research summaries due in Ses #22
+
+Conferences in Ses #22
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Reports on research papers
+{{< tdclose >}}
+{{< tdopen >}}
+Essay three due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25-26
+{{< tdclose >}}
+{{< tdopen >}}
+Desai, _Fasting, Feasting_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Conclusion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

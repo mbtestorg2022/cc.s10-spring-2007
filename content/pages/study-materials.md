@@ -7,11 +7,100 @@ uid: cf3dfae0-ab9d-1601-3b23-54c8406e0d06
 Forms of Persuasive Writing
 ---------------------------
 
-| TYPES | PROS | CONS |
-| --- | --- | --- |
-| Personal essay |  {{< br >}}{{< br >}} Accessible {{< br >}}{{< br >}} Appeals to emotion, not logic {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Appeals to emotion, not logic {{< br >}}{{< br >}} Personal, not universal {{< br >}}{{< br >}}  |
-| Close reading |  {{< br >}}{{< br >}} Develops its point from a text shared with reader {{< br >}}{{< br >}} Uses evidence close at hand {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Can seem academic, contrived {{< br >}}{{< br >}} Can seem limited, speculative, unscholarly {{< br >}}{{< br >}}  |
-| Research essay |  {{< br >}}{{< br >}} Draws from the Great Well of Knowledge {{< br >}}{{< br >}} Argues in context of tradition {{< br >}}{{< br >}} Lends support to the personal {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} May use research ineffectively {{< br >}}{{< br >}} May seem remote, academic, contrived {{< br >}}{{< br >}} May lose the personal {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TYPES
+{{< thclose >}}
+{{< thopen >}}
+PROS
+{{< thclose >}}
+{{< thopen >}}
+CONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Personal essay
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Accessible
+
+Appeals to emotion, not logic
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Appeals to emotion, not logic
+
+Personal, not universal
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Close reading
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Develops its point from a text shared with reader
+
+Uses evidence close at hand
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Can seem academic, contrived
+
+Can seem limited, speculative, unscholarly
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Research essay
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Draws from the Great Well of Knowledge
+
+Argues in context of tradition
+
+Lends support to the personal
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+May use research ineffectively
+
+May seem remote, academic, contrived
+
+May lose the personal
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Notes on Close Reading
 ----------------------
